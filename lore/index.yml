@@ -6,3 +6,10 @@ items:
     tags:
       - ambientacion
       - lore
+  - file: "cronometria-y-ciclos.md"
+    title: "Ostraca - Cronometria y Ciclos"
+    tags:
+      - ambientacion
+      - lore
+      - astronomia
+      - tiempo
