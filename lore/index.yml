@@ -1,3 +1,8 @@
 folder: "lore"
 description: "Narrativa canonica de Ostraca."
-items: []
+items:
+  - file: "escenario-fisico.md"
+    title: "Ostraca - Escenario Fisico"
+    tags:
+      - ambientacion
+      - lore
