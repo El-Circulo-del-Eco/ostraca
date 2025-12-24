@@ -1,3 +1,9 @@
 folder: "sistema"
 description: "Reglas y ajustes mecanicos de la ambientacion."
-items: []
+items:
+  - file: "sistema-noetico-ostraca.md"
+    title: "Sistema Noetico - Ajustes para Ostraca"
+    tags:
+      - sistema
+      - srd
+      - reglas
