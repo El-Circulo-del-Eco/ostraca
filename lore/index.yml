@@ -13,3 +13,10 @@ items:
       - lore
       - astronomia
       - tiempo
+  - file: "demografia-y-especies.md"
+    title: "Ostraca - Demografia y Especies"
+    tags:
+      - ambientacion
+      - lore
+      - sociedad
+      - especies
