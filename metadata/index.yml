@@ -1,0 +1,11 @@
+folder: "/"
+description: "Indice raiz de la ambientacion Ostraca."
+items:
+  - folder: "docs"
+    description: "Documentacion conceptual de la ambientacion."
+  - folder: "lore"
+    description: "Narrativa propia de Ostraca."
+  - folder: "sistema"
+    description: "Reglas y adaptaciones mecanicas."
+  - folder: "assets"
+    description: "Recursos visuales y diagramas."
