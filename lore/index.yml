@@ -20,3 +20,9 @@ items:
       - lore
       - sociedad
       - especies
+  - file: "cronologia-gran-cataclismo.md"
+    title: "Cronologia de Ostraca: El Gran Cataclismo"
+    tags:
+      - ambientacion
+      - lore
+      - historia
