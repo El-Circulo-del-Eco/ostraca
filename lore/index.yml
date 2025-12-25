@@ -64,3 +64,10 @@ items:
       - lore
       - historia
       - xalan-kor
+  - file: "cronologia-peregrinacion-nordval.md"
+    title: "Cronologia: La Peregrinacion del Hielo (Nordval)"
+    tags:
+      - ambientacion
+      - lore
+      - historia
+      - nordval
