@@ -1,6 +1,6 @@
 ---
-title: "Estado de la Nacion: Sylvarath (Año 3000)"
-description: "Tecnocracia magica, utopia arcana, Legión de la Torre y tension con Nordval."
+title: "SYL-VERATH: El Imperio Verde"
+description: "Tecnocracia magica centralizada, utopia arcana y alianza con Nordval."
 version: "0.1"
 last_updated: "2025-12-25"
 author: "El Escriba"
@@ -12,31 +12,33 @@ tags:
   - sociedad
 ---
 
-# Estado de la Nacion: Sylvarath (Año 3000)
-**"Orden, Pureza y la Luz del Conocimiento"**
+# SYL-VERATH: El Imperio Verde
+**Lema:** "Orden, Pureza y la Luz del Conocimiento"  
+**Capital:** La Gran Torre (Sede del Magisterio)
 
-## Resumen General
-En el año 3000, Sylvarath es la cumbre de la civilizacion magica clasica. Han rechazado la industrializacion mecanica en favor de una **utopia arcana**. Sus ciudades son limpias, construidas con materiales creados magicamente (cristal, piedra blanca) y gobernadas por una meritocracia academica.
+## 1. Perfil General (Año 3000)
+Syl-Verath es la cumbre de la civilizacion magica clasica. Una utopia arcana de ciudades limpias y cristalinas que rechaza la maquinaria "sucia" en favor de la magia pura.
+* **Territorio:** 260.000 millas cuadradas.
+* **Expansion:** Han absorbido pacificamente el estado de **Costa-Libre** al sur, ofreciendo proteccion.
 
-## Estructura Sociopolitica: La Tecnocracia Magica
-La "Gran Escuela Central" ha evolucionado hasta convertirse en el gobierno mismo.
-* **El Consejo de Archimagos:** Cuerpo legislativo y ejecutivo.
-* **Ciudadania Escalonada:** Estatus segun poder magico y certificacion academica.
-    * *Clase Alta:* Magos titulados (agujas superiores).
-    * *Clase Baja:* "Mundanos" (trabajos manuales/servicio, dependen de magia para bienestar).
+## 2. Sistema Magico: El Magisterio Unificado
+La magia es ciencia academica institucionalizada y centralizada.
+* **Estructura:** Gran escuela central con sedes oficiales en cada ciudad; todo estandarizado y regulado.
+* **Filosofia:** Seguridad, teoria y pureza; desprecian la magia "silvestre" o intuitiva.
+* **Jerarquia:** Burocracia estricta (Alumno -> Adepto -> Magister -> Archimago).
+* **Tecnologia:** Rechazan hierro y vapor; usan golems de cristal, arquitectura cultivada y energia pura.
 
-## Economia y Tecnologia
-* **Magia como Servicio (MaaS):** Economia basada en venta de servicios magicos estandarizados (teletransporte, sanidad, climatizacion urbana).
-* **Rechazo al Hierro:** Tecnologia de maquinas/combustion vista como "sucia". Usan golems de arcilla o cristal refinado.
-* **Comercio:** Exportan articulos de lujo encantados, pociones y textos academicos.
+## 3. Geografia y Estrategia
+Vastos bosques y llanuras, pero un reto maritimo.
 
-## Militar: La Legion de la Torre
-* **Doctrina:** Calidad sobre cantidad. Un Archimago puede aniquilar un batallon, pero son pocos y valiosos.
-* **Defensa:** Ciudades protegidas por cupulas de energia permanentes.
+### El Dilema del Mar Interior
+* No tienen puerto profundo en el Mar Interior, solo acceso lacustre.
+* **Objetivo:** Buscan salida al mar interior (conquista o canal), pero hoy se centran en el Oceano Exterior.
 
-## Cultura y Vida Diaria
-* Vida comoda pero vigilada. Uso de magia no autorizada es crimen grave.
-* Estancamiento cultural: se preservan tradiciones antiguas sobre innovacion radical.
+### Relacion con Nordval
+Colaboran en **Marea-Vakt** para dominar comercio transoceanico, aportando ingenieria de aguas y magia estructural a cambio del acero de Nordval.
 
----
-**Relacion con Nordval:** Tension fria. Consideran a Nordval amenaza ambiental y aberracion cultural, pero dependen de sus materias primas.
+## 4. Politica Exterior
+* **Bloque:** Co-lideres de "La Alianza de la Razon".
+* **Frontera Sur (La Liga - Thal Ragor):** "Frialdad respetuosa"; usan a la Liga como escudo contra barbaros del Este (Xalan-Kor).
+* **Vision Global:** Aislacionistas de facto; prefieren perfeccionar su sociedad interna antes que guerras sucias del sur.
