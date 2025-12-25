@@ -78,3 +78,10 @@ items:
       - lore
       - historia
       - syl-verath
+  - file: "cronologia-exodo-aesh-madan.md"
+    title: "Cronologia: El Exodo de los Elegidos (Aesh-Madan)"
+    tags:
+      - ambientacion
+      - lore
+      - historia
+      - aesh-madan
