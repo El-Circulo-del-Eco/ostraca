@@ -204,3 +204,10 @@ items:
       - lore
       - thal-ragor
       - segunda-edad
+  - file: "syl-verath-fin-segunda-edad.md"
+    title: "Estado de la Nacion: Sylvarath (Año 3000)"
+    tags:
+      - ambientacion
+      - lore
+      - syl-verath
+      - segunda-edad
