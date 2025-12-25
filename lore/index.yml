@@ -71,3 +71,10 @@ items:
       - lore
       - historia
       - nordval
+  - file: "cronologia-primeros-navegantes-syl-verath.md"
+    title: "Cronologia: Los Primeros Navegantes (Syl-Verath)"
+    tags:
+      - ambientacion
+      - lore
+      - historia
+      - syl-verath
