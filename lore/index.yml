@@ -99,3 +99,10 @@ items:
       - lore
       - historia
       - zul-kharad
+  - file: "cronologia-maestra-primera-edad.md"
+    title: "Cronologia Maestra: La Primera Edad (Era de la Ceniza)"
+    tags:
+      - ambientacion
+      - lore
+      - historia
+      - cronologia
