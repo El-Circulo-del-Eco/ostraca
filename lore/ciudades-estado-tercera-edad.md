@@ -54,7 +54,7 @@ tags:
 - Escenarios: asedios de valle, peajes de montaña, pirateria lacustre, intrigas de castas duales (A/B) en cada ciudad.
 
 ## Conexiones
-- Mapa base: `assets/ostraca-post-cataclismo.webp`.
+- Mapas: `assets/ostraca-post-cataclismo.webp` (contexto post-Cataclismo) y `assets/ostraca-3-edad.webp` (distribucion de ciudades en Tercera Edad).
 - Integra con `lore/escenario-fisico.md` (geografia post-Cataclismo) y `lore/era-de-las-ciudades-y-el-bronce.md` (castas/bronce).
 - Usa especies dominantes A/B descritas en `lore/demografia-y-especies.md` para asignar roles.
 
