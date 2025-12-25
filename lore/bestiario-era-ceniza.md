@@ -56,4 +56,14 @@ Fenomenos raros, remanentes psiquicos del Punto Cero.
 * **Los Sin-Rostro:** Siluetas de estatica que aparecen en tormentas electricas. Su presencia induce hipotermia severa y desesperacion suicida.
 * **Impacto Cultural:** Enseñaron a todas las culturas el valor de la **Magia de Anclaje** y los ritos funerarios para mantener la realidad estable y alejar a los espectros.
 
+## 5. El Enjambre del Oxido (Costa del Mar Interior)
+**Region Principal:** Costas fangosas del nuevo Mar Interior y ruinas del centro.  
+**Naturaleza:** Insectoide, Carroñera, Blindada.
+
+En el epicentro del Cataclismo, donde la lluvia acida es mas fuerte y el suelo es barro toxico, los mamiferos mueren; prosperan artrópodos blindados.
+* **Ciempiés de Vidrio (Scolopendra Vitrea):** Miriapodos de 4 m con caparazones translucidos; segregan acido por las patas para disolver roca y carne, y “beber” el fango resultante; terror de tuneles poco profundos.
+* **Escarabajos-Bunker:** Tamaño tortuga gigante; caparazon grueso y hermetico que rebota armas primitivas. Se cazan para usar sus caparazones como escudos y tejas.
+* **Las Tejedoras de Niebla:** Aracnidos que tejen filamentos que condensan humedad; cuelgan redes en pasos de montaña para recolectar agua y atrapar a quien se acerque.
+* **Impacto Cultural:** Enseñaron que **la armadura lo es todo**. Tribus del centro imitan al enjambre: armaduras de placas superpuestas (quitina o metal recuperado) y filas cerradas para parecer un organismo mayor.
+
 ---
