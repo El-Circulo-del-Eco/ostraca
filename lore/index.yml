@@ -155,3 +155,10 @@ items:
       - lore
       - aesh-madan
       - segunda-edad
+  - file: "thal-ragor-segunda-edad.md"
+    title: "Thal Ragor en el Año 2000 (Segunda Edad)"
+    tags:
+      - ambientacion
+      - lore
+      - thal-ragor
+      - segunda-edad
