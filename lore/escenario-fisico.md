@@ -52,6 +52,7 @@ tags:
 - Continente Apeiron: celdas de Hadley gigantes y vientos constantes moldean costa e interior.
 - Flora negra y fauna hexapoda: adaptaciones al espectro rojo-azul y a 1.1G.
 - Esta ficha permanece como fase 1; fases posteriores cubriran sociedad, tecnologia y cultura.
+- Mapa de referencia: `assets/ostraca-post-cataclismo.webp` (disposicion post-Cataclismo).
 
 ## Informacion oculta (solo DJ / autores)
 - Las Grandes Syzygias (alineacion total) ocurren 2 veces al año y pueden usarse como eventos climaticos de trama.
