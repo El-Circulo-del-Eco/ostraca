@@ -162,3 +162,10 @@ items:
       - lore
       - thal-ragor
       - segunda-edad
+  - file: "xalan-kor-segunda-edad.md"
+    title: "Xalan-Kor en el Año 2000 (Segunda Edad)"
+    tags:
+      - ambientacion
+      - lore
+      - xalan-kor
+      - segunda-edad
