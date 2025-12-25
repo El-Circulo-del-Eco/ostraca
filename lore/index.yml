@@ -113,3 +113,10 @@ items:
       - lore
       - historia
       - cronologia
+  - file: "bestiario-era-ceniza.md"
+    title: "Bestiario de la Primera Edad (Era de la Ceniza)"
+    tags:
+      - ambientacion
+      - lore
+      - bestiario
+      - criaturas
