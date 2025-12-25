@@ -218,3 +218,10 @@ items:
       - lore
       - nordval
       - segunda-edad
+  - file: "tablero-mundial-fin-segunda-edad.md"
+    title: "Tablero Mundial: Fin de la Segunda Edad (Año 3000)"
+    tags:
+      - ambientacion
+      - lore
+      - geopolitica
+      - tercera-edad-preludio
