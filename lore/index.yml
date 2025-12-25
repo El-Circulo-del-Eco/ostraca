@@ -176,3 +176,10 @@ items:
       - lore
       - zul-kharad
       - segunda-edad
+  - file: "borum-kagh-fin-segunda-edad.md"
+    title: "Borum-Kagh en el Año 3000 (Fin de la Segunda Edad)"
+    tags:
+      - ambientacion
+      - lore
+      - borum-kagh
+      - segunda-edad
