@@ -50,3 +50,10 @@ items:
       - ambientacion
       - lore
       - ciudades-estado
+  - file: "cronologia-fundacion-thal-ragor.md"
+    title: "Cronologia: La Fundacion de Thal Ragor"
+    tags:
+      - ambientacion
+      - lore
+      - historia
+      - thal-ragor
