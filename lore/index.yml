@@ -190,3 +190,10 @@ items:
       - lore
       - aesh-madan
       - segunda-edad
+  - file: "thal-ragor-fin-segunda-edad.md"
+    title: "La Liga de Thal Ragor (Año 3000)"
+    tags:
+      - ambientacion
+      - lore
+      - thal-ragor
+      - segunda-edad
