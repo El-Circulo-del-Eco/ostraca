@@ -26,3 +26,9 @@ items:
       - ambientacion
       - lore
       - historia
+  - file: "era-de-la-ceniza.md"
+    title: "La Primera Edad: La Era de la Ceniza"
+    tags:
+      - ambientacion
+      - lore
+      - historia
