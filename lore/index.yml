@@ -92,3 +92,10 @@ items:
       - lore
       - historia
       - borum-kagh
+  - file: "cronologia-juramento-hierro-zul-kharad.md"
+    title: "Cronologia: El Juramento de Hierro (Zul-Kharad)"
+    tags:
+      - ambientacion
+      - lore
+      - historia
+      - zul-kharad
