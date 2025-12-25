@@ -134,3 +134,10 @@ items:
       - lore
       - syl-verath
       - segunda-edad
+  - file: "borum-kagh-segunda-edad.md"
+    title: "Borum-Kagh en el Año 2000 (Segunda Edad)"
+    tags:
+      - ambientacion
+      - lore
+      - borum-kagh
+      - segunda-edad
