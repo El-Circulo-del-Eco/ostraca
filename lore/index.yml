@@ -38,3 +38,9 @@ items:
       - ambientacion
       - lore
       - historia
+  - file: "era-de-las-ciudades-y-el-bronce.md"
+    title: "La Tercera Edad: La Era de las Ciudades y el Bronce"
+    tags:
+      - ambientacion
+      - lore
+      - historia
