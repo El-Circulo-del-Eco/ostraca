@@ -211,3 +211,10 @@ items:
       - lore
       - syl-verath
       - segunda-edad
+  - file: "nordval-fin-segunda-edad.md"
+    title: "NORDVAL: El Yunque del Mundo (Año 3000)"
+    tags:
+      - ambientacion
+      - lore
+      - nordval
+      - segunda-edad
