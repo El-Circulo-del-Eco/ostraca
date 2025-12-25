@@ -57,3 +57,10 @@ items:
       - lore
       - historia
       - thal-ragor
+  - file: "cronologia-asedio-xalan-kor.md"
+    title: "Cronologia: El Asedio de Xalan-Kor"
+    tags:
+      - ambientacion
+      - lore
+      - historia
+      - xalan-kor
