@@ -32,3 +32,9 @@ items:
       - ambientacion
       - lore
       - historia
+  - file: "era-del-anclaje-y-la-piedra.md"
+    title: "La Segunda Edad: La Era del Anclaje y la Piedra"
+    tags:
+      - ambientacion
+      - lore
+      - historia
