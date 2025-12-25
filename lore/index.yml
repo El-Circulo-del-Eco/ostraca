@@ -148,3 +148,10 @@ items:
       - lore
       - zul-kharad
       - segunda-edad
+  - file: "aesh-madan-segunda-edad.md"
+    title: "Aesh-Madan en el Año 2000 (Segunda Edad)"
+    tags:
+      - ambientacion
+      - lore
+      - aesh-madan
+      - segunda-edad
