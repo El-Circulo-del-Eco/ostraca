@@ -169,3 +169,10 @@ items:
       - lore
       - xalan-kor
       - segunda-edad
+  - file: "zul-kharad-fin-segunda-edad.md"
+    title: "Zul-Kharad en el Año 3000 (Fin de la Segunda Edad)"
+    tags:
+      - ambientacion
+      - lore
+      - zul-kharad
+      - segunda-edad
