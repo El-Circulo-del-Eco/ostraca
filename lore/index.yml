@@ -197,3 +197,10 @@ items:
       - lore
       - thal-ragor
       - segunda-edad
+  - file: "liga-seis-picos-fin-segunda-edad.md"
+    title: "La Liga de los Seis Picos (Año 3000)"
+    tags:
+      - ambientacion
+      - lore
+      - thal-ragor
+      - segunda-edad
