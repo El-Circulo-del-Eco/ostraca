@@ -141,3 +141,10 @@ items:
       - lore
       - borum-kagh
       - segunda-edad
+  - file: "zul-kharad-segunda-edad.md"
+    title: "Zul-Kharad en el Año 2000 (Segunda Edad)"
+    tags:
+      - ambientacion
+      - lore
+      - zul-kharad
+      - segunda-edad
