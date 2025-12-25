@@ -26,11 +26,11 @@ Para gestionar un pais del tamaño de Alemania hecho de piedra vertical, han rea
 
 ## Las 6 Capitales Provinciales
 1.  **Thal Ragor (El Nido):** Capital federal y centro diplomático.
-2.  **Iron-Gate (El Escudo):** Fortaleza del Sur. Bloquea el paso principal de Xalan-Kor.
+2.  **Ferro-Varr (El Escudo):** Fortaleza del Sur. Bloquea el paso principal de Xalan-Kor; puertas de hierro de 10 m de altura.
 3.  **Thal Orod (La Fuente):** Provincia hidroeléctrica y reserva de agua.
 4.  **Krag-Silva (El Huerto):** Provincia agricola protegida en valles altos.
-5.  **Argenta-Deep (La Bóveda):** Centro minero y financiero.
-6.  **Vento-Spire (El Ojo):** Provincia de vigilancia aerea y magia climatica.
+5.  **Argenta-Kav (La Bóveda):** Centro minero y financiero subterráneo.
+6.  **Vento-Tor (El Ojo):** Provincia de vigilancia aerea y magia climatica en los picos mas altos.
 
 ## Economia y Recursos
 - **Inmensa Riqueza Mineral:** Monopolio virtual de gemas, metales preciosos e hierro de alta montaña.
