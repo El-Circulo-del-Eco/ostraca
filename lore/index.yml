@@ -44,3 +44,9 @@ items:
       - ambientacion
       - lore
       - historia
+  - file: "ciudades-estado-tercera-edad.md"
+    title: "Compendio de Grandes Ciudades-Estado (Tercera Edad)"
+    tags:
+      - ambientacion
+      - lore
+      - ciudades-estado
