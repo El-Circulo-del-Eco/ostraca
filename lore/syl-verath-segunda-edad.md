@@ -38,6 +38,13 @@ Syl-Verath ha dejado de ser un asentamiento para convertirse en una potencia ind
 - **El Nacimiento de la Dendromancia:** Empiezan a aparecer los primeros "Magos de las Plantas" (Dendromantes).
     - Al principio son vistos como curiosidades, pero su capacidad para curvar la madera viva o acelerar el crecimiento de arboles para mastiles los esta volviendo indispensables en los astilleros de Xyla-Varr.
 
+## El Magisterio Unificado
+- **Centralizacion:** Todas las escuelas menores se integran en una sola entidad estatal.
+- **Sede Central:** La Gran Torre (capital); **Sucursales** en cada ciudad mayor responden a la capital.
+- **Jerarquia academica:** Iniciado → Adepto Certificado → Magister → Archimago (lider politico/administrativo de sede).
+- **Estadarizacion:** Hechizos formalizados (un "Luz" siempre se lanza igual); licencia obligatoria para suministros magicos de alto nivel.
+- **Vision cultural:** Se ven moral e intelectualmente superiores a los metodos "barbaros" de los vecinos.
+
 ## Conflictos y Amenazas
 - **La Balanza Comercial:** Los mercaderes de Syl-Verath siempre temen que Nordval suba el precio del cobre. Se buscan desesperadamente vetas de metal en las islas, sin exito.
 - **Megafauna Acuatica:** Al colonizar las islas interiores, han invadido el territorio de **Leviatanes de Agua Dulce** que antes se ignoraban. Las rutas requieren escolta magica.
