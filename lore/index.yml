@@ -127,3 +127,10 @@ items:
       - lore
       - nordval
       - segunda-edad
+  - file: "syl-verath-segunda-edad.md"
+    title: "Syl-Verath en el Año 2000 (Segunda Edad)"
+    tags:
+      - ambientacion
+      - lore
+      - syl-verath
+      - segunda-edad
