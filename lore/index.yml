@@ -85,3 +85,10 @@ items:
       - lore
       - historia
       - aesh-madan
+  - file: "cronologia-paso-tercos-borum-kagh.md"
+    title: "Cronologia: El Paso de los Tercos (Borum-Kagh)"
+    tags:
+      - ambientacion
+      - lore
+      - historia
+      - borum-kagh
